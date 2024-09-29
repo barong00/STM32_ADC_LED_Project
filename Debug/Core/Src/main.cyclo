@@ -1,0 +1,7 @@
+../Core/Src/main.c:55:10:Read_ADC_Value	2
+../Core/Src/main.c:68:7:Convert_ADC_to_Voltage	1
+../Core/Src/main.c:78:5:main	1
+../Core/Src/main.c:124:13:MX_ADC1_Init	3
+../Core/Src/main.c:161:13:MX_GPIO_Init	1
+../Core/Src/main.c:186:6:SystemClock_Config	3
+../Core/Src/main.c:230:6:Error_Handler	1

@@ -1,0 +1,7 @@
+../Core/Src/main.c:55:10:Read_ADC_Value	8	static
+../Core/Src/main.c:68:7:Convert_ADC_to_Voltage	16	static
+../Core/Src/main.c:78:5:main	8	static
+../Core/Src/main.c:124:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:161:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:186:6:SystemClock_Config	88	static
+../Core/Src/main.c:230:6:Error_Handler	4	static,ignoring_inline_asm
